@@ -7,7 +7,8 @@ public class member {
 		
 		
 		private int age;
-		private String name;
+
+		private String NAME;
 	}
 
 }
